@@ -217,6 +217,18 @@ body.loaded #preloader{
 	position:relative;
 	overflow:hidden;
 }
+.text-slider2{
+	background:url(../images/slider/1.jpg) repeat fixed;
+	border-color: #000000;
+	position:relative;
+	overflow:hidden;
+}
+.text-slider3{
+	background:url(../images/slider/1.jpg) repeat fixed;
+	border-color: #000000;
+	position:relative;
+	overflow:hidden;
+}
 .text-slider .slider-container{
 	position:absolute;
 	right:0;
